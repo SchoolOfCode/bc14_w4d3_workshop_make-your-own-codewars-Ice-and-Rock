@@ -51,9 +51,12 @@ test('findPowderSkis should return the gear bag containing "powder skis"', () =>
 
 //=======================================
   
-// OTHER TESTS CONSIDERED //
+// OTHER TESTS CONSIDERED BUT NOT IMPLEMENTED
 
 // a test to ensure the function returns an object
 // a test to return "null" if none of the arrays contain 'powder skis'
+    // -> this is unecessary
 // a test to ensure multiple arrays don't contain 'powder skis'
+    // -> this is unecessary
 // a test to ensure the arrays contain text and not empty strings
+    // -> this is unecessary
