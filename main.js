@@ -21,18 +21,4 @@ export function findPowderSkis(gearBags) {
 
 }
 
-
-
-
-
 // 👉 Write your code below here:
-
-
-
-
-
-
-
-
-  
-
